@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Mike's+GitHub+Profile!)](https://git.io/typing-svg)
 
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/mikecsaucedo/" target="_blank"> Mike </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
 ### Hi there 👋
 
 <!--
@@ -7,6 +9,9 @@
 
 Here are some ideas to get you started:
 
+
+-->
+<img src="https://github-readme-stats.vercel.app/api?username=snafusauce&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<img src="https://github-readme-stats.vercel.app/api?username=snafusauce&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=snafusauce&layout=compact&theme=radical" />
